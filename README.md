@@ -6,6 +6,7 @@ This repository includes some tutorials on data visualization using Matplotlib, 
 
 ### Histogram
 ![image](https://github.com/linhle32/Data-Visualization/assets/5643444/3cc3abc7-893e-4c9c-bba3-aedf586dc276)
+
     - Simple histogram
     - Histogram with normal/density curves
     - Side-by-side histograms
@@ -14,27 +15,32 @@ This repository includes some tutorials on data visualization using Matplotlib, 
     - Multiple density curves
 ### Box plot
 ![image](https://github.com/linhle32/Data-Visualization/assets/5643444/d76c17b6-42ff-4c77-8349-b33c4e995ef3)
+
     - Simple box plot
     - Multiple box plots
     - Side-by-side box plots
 ### Bar chart
 ![image](https://github.com/linhle32/Data-Visualization/assets/5643444/1d46b307-cc9c-4426-90df-2afd61150c71)
+
     - Statistics bar chart
     - Frequency bar chart
     - Grouped bar chart
     - Stacked bar chart
 ### Scatter plot
 ![image](https://github.com/linhle32/Data-Visualization/assets/5643444/241d8939-4b26-45db-b57e-d9d672b113c0)
+
     - Simple scatter plot
     - Multi-dimension scatter plot
     - 3D scatter plot
 ### Violin plot
 ![image](https://github.com/linhle32/Data-Visualization/assets/5643444/78857972-40e5-455e-99aa-6f7f2f00d5bd)
+
     - Simple violin plot
     - Side-by-side violin plot
     - Stratified violin plot
 ### Time series plot
 ![image](https://github.com/linhle32/Data-Visualization/assets/5643444/b53ee1d8-b3fa-4088-adba-12c3a9c90350)
+
     - Simple line plot
     - Line plot with moving average
     - Line plot with moving average and confidence interval
@@ -42,6 +48,7 @@ This repository includes some tutorials on data visualization using Matplotlib, 
     - Stock chart: candlestick plot
 ### Regression plot
 ![image](https://github.com/linhle32/Data-Visualization/assets/5643444/15ca8696-fd23-4669-80b7-b64f042b701f)
+
     - Linear regression plot
     - Polynomial regression plot
     - Log regression plot
