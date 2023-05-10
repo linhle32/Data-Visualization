@@ -4,43 +4,51 @@ This repository includes some tutorials on data visualization using Matplotlib, 
 
 ## Contents so far:
 
-1. Histogram
+### Histogram
+![image](https://github.com/linhle32/Data-Visualization/assets/5643444/3cc3abc7-893e-4c9c-bba3-aedf586dc276)
     - Simple histogram
     - Histogram with normal/density curves
     - Side-by-side histograms
     - Side-by-side density curves
     - Multiple histograms
     - Multiple density curves
-2. Box plot
+### Box plot
+![image](https://github.com/linhle32/Data-Visualization/assets/5643444/d76c17b6-42ff-4c77-8349-b33c4e995ef3)
     - Simple box plot
     - Multiple box plots
     - Side-by-side box plots
-3. Bar chart
+### Bar chart
+![image](https://github.com/linhle32/Data-Visualization/assets/5643444/1d46b307-cc9c-4426-90df-2afd61150c71)
     - Statistics bar chart
     - Frequency bar chart
     - Grouped bar chart
     - Stacked bar chart
-4. Scatter plot
+### Scatter plot
+![image](https://github.com/linhle32/Data-Visualization/assets/5643444/241d8939-4b26-45db-b57e-d9d672b113c0)
     - Simple scatter plot
     - Multi-dimension scatter plot
     - 3D scatter plot
-5. Violin plot
+### Violin plot
+![image](https://github.com/linhle32/Data-Visualization/assets/5643444/78857972-40e5-455e-99aa-6f7f2f00d5bd)
     - Simple violin plot
     - Side-by-side violin plot
     - Stratified violin plot
-6. Time series plot
+### Time series plot
+![image](https://github.com/linhle32/Data-Visualization/assets/5643444/b53ee1d8-b3fa-4088-adba-12c3a9c90350)
     - Simple line plot
     - Line plot with moving average
     - Line plot with moving average and confidence interval
     - Multiple-line plot
     - Stock chart: candlestick plot
-7. Regression plot
+### Regression plot
+![image](https://github.com/linhle32/Data-Visualization/assets/5643444/15ca8696-fd23-4669-80b7-b64f042b701f)
     - Linear regression plot
     - Polynomial regression plot
     - Log regression plot
     - Lowess regression plot
     - Logistic regression plot
     - Stratified regression plot
+    
 ## Code template
 
 I try to write the code similar to a template that you can adapt with minimal modifications. A small assumption is that your data is stored in a pandas dataframe named `data`. If that is satisfied, for complicated code cell, the first several variables are all you need to change to fit your use case. For example, in the cell below, you just need to change the name of the column of interest, the time column, the window size, and the plot title.
